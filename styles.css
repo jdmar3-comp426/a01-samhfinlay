@@ -1,0 +1,20 @@
+img {
+    width: 25%;
+    display: block;
+    margin: 20px auto;
+}
+.imagy {
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+.titles {
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+}
+.bigtitle {
+    text-align: center;
+    text-decoration: cornflowerblue;
+    color: darkblue;
+}
