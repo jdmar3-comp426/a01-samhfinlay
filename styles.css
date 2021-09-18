@@ -13,8 +13,12 @@ img {
     text-align: center;
     text-decoration: underline;
 }
-.bigtitle {
-    text-align: center;
-    text-decoration: cornflowerblue;
-    color: darkblue;
-}
+ #thetite {
+     text-align: center;
+ }
+ h1 {
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ h2 {
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+ }
