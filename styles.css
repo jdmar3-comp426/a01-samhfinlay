@@ -2,11 +2,14 @@ img {
     width: 25%;
     display: block;
     margin: 20px auto;
+    border: 10px solid crimson;
+    border-radius: 10%;
 }
 .imagy {
     
     margin-left: auto;
     margin-right: auto;
+  
 }
 .titles {
     display: block;
@@ -21,4 +24,11 @@ img {
  }
  h2 {
      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+ }
+ img:hover {
+border: 5px dotted blue;
+ }
+ #para {
+     width: 900px;
+     margin: auto auto;
  }
