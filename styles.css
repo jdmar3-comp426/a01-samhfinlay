@@ -5,6 +5,9 @@ img {
     border: 10px solid crimson;
     border-radius: 10%;
 }
+body {
+    background-color: #eab676;
+}
 .imagy {
     
     margin-left: auto;
@@ -31,4 +34,10 @@ border: 5px dotted blue;
  #para {
      width: 900px;
      margin: auto auto;
+ }
+ #para:hover {
+     color: grey;
+ }
+ #promo {
+     color: green;
  }
