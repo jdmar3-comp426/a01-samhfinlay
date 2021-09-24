@@ -43,3 +43,6 @@ border: 5px dotted blue;
  #promo {
      color: green;
  }
+ #dollar {
+     font-weight: bold;
+ }
